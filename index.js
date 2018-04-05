@@ -1,5 +1,5 @@
 const app = "I don't do much."
-let kitten = []
+let kittens = []
 
 function destructivelyAppendKitten(name) {
  kitten.append(name);
